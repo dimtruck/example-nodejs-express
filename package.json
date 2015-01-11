@@ -10,6 +10,6 @@
   },
   "scripts": {
     "prestart": "sudo npm install",
-    "start": "node server &"
+    "start": "node server"
   }
 }
